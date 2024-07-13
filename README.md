@@ -31,7 +31,7 @@ The development data contains 100,000 savings account details with 178 feature c
 - **Account level attributes**: e.g., account opening date.
 - **Demographic attributes**: e.g., income, occupation, city tier, etc.
 - **Transaction history**: Includes credits/debits of specific types over a period.
-- **Other attributes**: e.g., product holding with the Bank, app/web logins, etc.
+- **Other attributes**: e.g., product holding with the Bank, app/web logins, etc. [DataSet](https://drive.google.com/drive/folders/1mdVAQqukH1pzSjYz4kXnw2k6_Il90dD9)
 
 ## Exploratory Data Analysis (EDA)
 
